@@ -2,8 +2,14 @@ html, body {
   font-family: 'Spartan', sans-serif;
 }
 
-#container {
-  width: 60vw;
+main {
+  max-width: 620px;
   margin: 0 auto;
-  border: solid 1px grey;
+  padding: 0 150px
+}
+
+.title {
+  font-size: 50px;
+  line-height: 50px;
+  margin-bottom: 10px;
 }
