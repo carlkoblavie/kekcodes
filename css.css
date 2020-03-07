@@ -1,9 +1,9 @@
-body {
-  font-family: font-family: 'Spartan', sans-serif;
+html, body {
+  font-family: 'Spartan', sans-serif;
 }
 
 #container {
   width: 60vw;
   margin: 0 auto;
-  border: sold 1px grey;
+  border: solid 1px grey;
 }
